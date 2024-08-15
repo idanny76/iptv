@@ -1,0 +1,110 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="WAPADT1.pr"tvg-logo="https://i.imgur.com/kqq7tD9.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",WAPA-DT1 (WAPA-TV) (1080p)
+https://live.field59.com/wapa/wapa1/playlist.m3u8
+#EXTINF:-1 tvg-id="WKAQDT1.pr"tvg-logo="https://i.imgur.com/DVASpQj.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",WKAQ-DT1 (Telemundo PR) (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNovelasDramas.us"tvg-logo="https://i.imgur.com/vAJPogD.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",Pluto TV Novelas Dramas (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVNovelasRomance.us"tvg-logo="https://i.imgur.com/JjzpYfV.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",Pluto TV Novelas Romance (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVNovelas.us"tvg-logo="https://i.imgur.com/R44LypS.png"tvg-shift=""group-title="Series":http-referrer="":http-user-agent="",Pluto TV Novelas (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVNovelasThriller.us"tvg-logo="https://i.imgur.com/WJnHkEm.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Pluto TV Novelas Thriller (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dc59026b9b000766f9a2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=943&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVNovelasDrama.us"tvg-logo="https://i.imgur.com/boOwYKj.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Pluto TV Novelas Drama (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
+#EXTINF:-1 tvg-id="MovieFe.co"tvg-logo="https://i.imgur.com/FqHLJmN.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",MovieFe (720p) [Not 24/7]
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaTerror.ar"tvg-logo="https://i.imgur.com/FcaTUym.png"tvg-shift=""group-title="Movies":http-referrer="https://xtrematv.com/?p=1456":http-user-agent="",Xtrema Terror
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaCineClasico.ar"tvg-logo="https://i.imgur.com/j91M4Yf.png"tvg-shift=""group-title="Classic;Movies":http-referrer="https://xtrematv.com/?p=1460":http-user-agent="",Xtrema Cine Clasico
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1460
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAccion.ar"tvg-logo="https://i.imgur.com/z5NwizH.png"tvg-shift=""group-title="Movies":http-referrer="https://xtrematv.com/?p=1434":http-user-agent="",Xtrema Accion
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="PantallaClasicaEC.ec"tvg-logo="https://i.imgur.com/mhbERF9.jpg"tvg-shift=""group-title="Movies;Series":http-referrer="":http-user-agent="",Pantalla Clásica EC (512p)
+https://ssh101-fl.bozztv.com/ssh101/ecuadoralmundo/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineClasico.es"tvg-logo="https://i.imgur.com/hCA5BRr.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Pluto TV Cine Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVEstrellasdeAccion.us"tvg-logo="https://i.imgur.com/GVOYX4L.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Pluto TV Estrellas de Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineEstelar.es"tvg-logo="https://i.imgur.com/v3BO4nW.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Pluto TV Cine Estelar (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineAccion.es"tvg-logo="https://i.imgur.com/PXhCzXn.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Pluto TV Cine Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:-1 tvg-id="SEOTV4Peliculas.bo"tvg-logo="https://i.imgur.com/aTcJ5p3.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",SEO TV 4 Películas (1080p)
+https://seo.tv.bo/tv/SEOTV4_HD.m3u8
+#EXTINF:-1 tvg-id="PlanetaTVMovie.cl"tvg-logo="https://i.imgur.com/ZjIgPmV.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",PlanetaTV Movie (720p)
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es"tvg-logo="https://i.imgur.com/NJYEYE3.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Rakuten Action Movies
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es"tvg-logo="https://i.imgur.com/NJYEYE3.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Rakuten Comedy Movies
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es"tvg-logo="https://i.imgur.com/NJYEYE3.png"tvg-shift=""group-title="Family;Movies":http-referrer="":http-user-agent="",Rakuten Family
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlight.es"tvg-logo="https://i.imgur.com/NJYEYE3.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Rakuten Spotlight
+https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es"tvg-logo="https://i.imgur.com/NJYEYE3.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Rakuten Drama
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx"tvg-logo="https://i.imgur.com/MMhSmDK.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",De Película Plus (576p)
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx"tvg-logo="https://i.imgur.com/aksM8pa.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",De Película (576p)
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAction.us"tvg-logo="https://i.imgur.com/tDapGal.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Pluto TV Action
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
+#EXTINF:-1 tvg-id="AXN.cl"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",AXN (1080p)
+https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Moovimex.mx"tvg-logo="https://i.imgur.com/mty0mgJ.jpg"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Moovimex (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmexClasico.mx"tvg-logo="https://i.imgur.com/D3dj4mv.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Filmex Clásico (1080p) [Geo-blocked]
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Filmex.mx"tvg-logo="https://i.imgur.com/Hiz2OyC.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Filmex (Xumo) (1080p) [Geo-blocked]
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TopCine.us"tvg-logo="https://i.imgur.com/DFEKx5N.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Top Cine (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-id="CineSureno.us"tvg-logo="https://i.imgur.com/gQimt9G.png"tvg-shift=""group-title="Movies":http-referrer="":http-user-agent="",Cine Sureño (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:-1 tvg-id="TropicalMusicTV.us"tvg-logo="https://i.imgur.com/h48pwLn.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Tropical Music TV (720p)
+http://68.235.37.11:1935/vallenato/vallenato/.m3u8
+#EXTINF:-1 tvg-id="RecuerdosRetro.cl"tvg-logo="https://i.imgur.com/t3F80JS.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Recuerdos Retro
+https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8
+#EXTINF:-1 tvg-id="VClassicTV.cl"tvg-logo="https://i.imgur.com/WIACJSy.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",V Classic TV (720p)
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-id="LaRancheradeCuauhtemoc.mx"tvg-logo="https://i.imgur.com/jbeojin.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",La Ranchera de Cuauhtémoc 89.7 FM (720p)
+https://5fa5de1a545ae.streamlock.net/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-id="CadenaCoversClasicos.ar"tvg-logo="https://i.imgur.com/CC1MFt6.png"tvg-shift=""group-title="Classic;Music":http-referrer="":http-user-agent="",Cadena Cover's Clásicos (360p)
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVHDTropical.bo"tvg-logo="https://i.imgur.com/0zJi12h.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",TV HD Tropical (720p)
+https://cloud2.streaminglivehd.com:19360/8060/8060.m3u8
+#EXTINF:-1 tvg-id="TuMusicaHD.do"tvg-logo="https://i.imgur.com/HnjUjog.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Tu Música HD (1080p)
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 tvg-id="TelehitMusica.mx"tvg-logo="https://i.imgur.com/PfROac9.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Telehit Música (576p)
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinosRadio.cl"tvg-logo="https://i.imgur.com/u6nkxrx.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Latinos Radio
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
+#EXTINF:-1 tvg-id="MasMusicaFM.co"tvg-logo="https://i.imgur.com/tCg7owd.png"tvg-shift=""group-title="Undefined":http-referrer="":http-user-agent="",MasMusica FM (720p)
+https://movil.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-id="TropicalTV.co"tvg-logo="https://i.imgur.com/mIh3y7K.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Tropical TV (480p) [Not 24/7]
+https://rpn3.bozztv.com/ssh101/ssh101/estvco/playlist.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVClassic.co"tvg-logo="https://i.imgur.com/tLTQLnv.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Memorias TV Classic (480p)
+https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMTVLatino.us"tvg-logo="https://i.imgur.com/mioQAZS.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Pluto TV MTV Latino (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
+#EXTINF:-1 tvg-id="LatinaMixRadioTv.ec"tvg-logo="https://i.imgur.com/LHnkFND.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Latina Mix Radio Tv (360p)
+https://srv.panelcast.net/latinamixtvtv2021/latinamixtvtv2021/playlist.m3u8
+#EXTINF:-1 tvg-id="TropicalMoonSalsaTV.pa"tvg-logo="https://i.imgur.com/jL1kLyS.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Tropical Moon Salsa TV (720p)
+https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
+#EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa"tvg-logo="https://i.imgur.com/WcM7BP5.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Tropical Moon Urban TV (720p)
+https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
+#EXTINF:-1 tvg-id="Rumba985FM.do"tvg-logo="https://i.imgur.com/snbcCWi.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Rumba 98.5 FM (720p)
+https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperClassicsTV.ar"tvg-logo="https://i.imgur.com/WlhCN7e.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Super Classics TV (360p)
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+#EXTINF:-1 tvg-id="MasMusicaTV.ar"tvg-logo="https://i.imgur.com/RcbIgA0.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Más Música TV (360p)
+https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
+#EXTINF:-1 tvg-id="MemoriasTV.co"tvg-logo="https://i.imgur.com/RWC55w7.png"tvg-shift=""group-title="Music":http-referrer="":http-user-agent="",Memorias TV (480p)
+https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
+#EXTINF:-1 tvg-id="SenadoTV.py"tvg-logo="https://i.imgur.com/LzgODUS.png"tvg-shift=""group-title="Legislative":http-referrer="":http-user-agent="",Senado TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCMXLvWR4z1Z4P4JvubxMQtg.m3u8
